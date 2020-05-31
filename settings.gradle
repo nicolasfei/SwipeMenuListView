@@ -1,0 +1,3 @@
+rootProject.name='SwipeMenuListView'
+include ':app'
+include ':library'
